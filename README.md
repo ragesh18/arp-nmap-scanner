@@ -1,4 +1,4 @@
-# **Technical Documentation: "arp-nmap-scanner"**
+# **Technical Documentation: arp-nmap-scanner**
 *A Python-based Network Reconnaissance Tool*
 
 ---
@@ -241,3 +241,5 @@ docker run --privileged -it arp-nmap-scanner
 | **Cloud-Based Scanning** | Research |
 
 ---
+**Documentation Last Updated:** `[Insert Date]`
+**Maintainer:** `[Your Name/Team]`
